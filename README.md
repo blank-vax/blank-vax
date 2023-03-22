@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m now pursuing my master's degree in Xidian University and my research direction is privacy-preserving data aggregation and analysis in the Industrial Internet of Things environment
-🔭 I’m currently learning privacy-preserving computing technology, especially the homomorphic cryptosystem and the trusted execution environment
-🤔 Enthusiast of Cryptography
-📫 How to reach me: 18682924517@163.com/18682924517rys@gmail.com
+- 🌱 I’m now pursuing my master's degree in Xidian University and my research direction is privacy-preserving data aggregation and analysis in the Industrial Internet of Things environment
+- 🔭 I’m currently learning privacy-preserving computing technology, especially the homomorphic cryptosystem and the trusted execution environment
+- 🤔 Enthusiast of Cryptography
+- 📫 How to reach me: 18682924517@163.com/18682924517rys@gmail.com
